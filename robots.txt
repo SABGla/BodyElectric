@@ -4,4 +4,4 @@ permalink: /robots.txt
 User-agent: *
 Allow: /
 
-Sitemap: https://ThomasNewton03.github.io/StephenBrewster2/sitemap.xml
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml

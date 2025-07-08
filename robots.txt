@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow:
 
 Sitemap: https://ThomasNewton03.github.io/StephenBrewster2/sitemap.xml

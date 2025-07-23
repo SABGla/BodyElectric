@@ -34,7 +34,4 @@ Our vision to solve these problems requires ground-breaking work at the intersec
 4.     Evaluate and demonstrate the practical effectiveness of electrotactile haptics in real world use
 
 
-
-The BodyElectric project is an ERC Advanced Grant (835197) to Professor Stephen Brewster, in the School of Computing Science at the University of Glasgow.
-
 ---

@@ -16,3 +16,12 @@ nav_order: 2
 
 </div>
 
+---
+
+<!-- _pages/publications.md -->
+
+<div class="pre-publications">
+
+{% pre-bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>

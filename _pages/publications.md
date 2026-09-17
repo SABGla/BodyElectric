@@ -16,10 +16,3 @@ nav_order: 2
 
 </div>
 
-Pre-project publications providing inspiration for the project
-
-<div class="pre-publications">
-
-{% pre-bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>

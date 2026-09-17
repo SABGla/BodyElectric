@@ -18,6 +18,6 @@ nav_order: 2
 
 <div class="pre-publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% pre-bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>

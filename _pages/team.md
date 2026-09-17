@@ -17,7 +17,7 @@ profiles:
       <p>Professor Stephen Brewster</p>
       <p>Lead Investigator</p>
   - align: right
-    image: team/Niklaj.jpg
+    image: team/Nikolaj.jpg
     content: team/about_nikolaj.md
     image_circular: true # crops the image to make it circular
     more_info: >

@@ -1,6 +1,6 @@
-# ERC AUGSOC Website
+# ERC BodyElectric Website
 
-**Project Website:** https://augsoc-project.org/
+**Project Website:** https://sabgla.github.io/BodyElectric/
 
 This uses al-folio (original readme/documentation below).
 

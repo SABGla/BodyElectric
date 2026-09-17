@@ -37,4 +37,18 @@ profiles:
     more_info: >
       <p>Professor Frank Pollick</p>
       <p>Co-Investigator</p>
+  - align: right
+    image: team/patrizia.jpg
+    content: team/about_patrizia.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Doctor Patrizia Di Campli San Vito</p>
+      <p>Postdoctoral Research Staff</p>
+  - align: right
+    image: team/andres.jpg
+    content: team/about_andres.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Doctor Andrés Alberto Ramírez-Duque</p>
+      <p>Postdoctoral Research Staff</p>
 ---

@@ -14,14 +14,9 @@ nav_order: 2
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
-
----
-
-<!-- _pages/publications.md -->
-
-<div class="pre-publications">
+<p>Pre-publications that inspired BodyElectric</p>
 
 {% pre-bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+

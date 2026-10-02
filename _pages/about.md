@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<img src="assets/img/logo/BodyElectricLogo.png" alt="Bodyelectric Logo, body writte in black, electric writte in pink with the l replaced by upwards aligned electrodes" width="1256" height="259">
+  - align: right
+    image: team/logo/BodyElectricLogo.png
+
 
 
 In BodyElectric, we will develop a radical new form of haptics using electrical stimulation of the skin to **transform our ability to incorporate tactile feedback into everyday products, to create richer interactive experiences, with lower environmental cost.**

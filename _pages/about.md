@@ -16,8 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<img src="logos/BodyElectricLogo.png" alt="Bodyelectric Logo, body written in black, electric writte in pink with the l replaced by upwards aligned electrodes" width="1256" height="259">
-
 In BodyElectric, we will develop a radical new form of haptics using electrical stimulation of the skin to **transform our ability to incorporate tactile feedback into everyday products, to create richer interactive experiences, with lower environmental cost.**
 
 Tactile haptics is a key feature of many devices, from phones to in-car user interfaces, significantly improving usability and user experience. However, touch is  often limited to vibration. Vibration actuators are bulky, low bandwidth, use non-sustainable materials, and only evoke a very limited set of sensations. This means we cannot make full use of our powerful touch sense and limits the applications of haptics. Electrotactile stimulation is the only effective solution for adding tactile displays to flexible devices with different geometries, at a low cost, power consumption and complexity. However, there are 4 key challenges that must be addressed:

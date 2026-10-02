@@ -9,4 +9,4 @@ Stephen Henley has started his PhD on BodyElectric!
 
 Welcome to the team, Stephen!
 
-<img src="Stephen Henley" alt="Stephen Henley" width="500" height="470">
+<img src="stephenH.jpg" alt="Stephen Henley" width="500" height="470">

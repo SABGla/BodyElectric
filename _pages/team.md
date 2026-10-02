@@ -51,4 +51,11 @@ profiles:
     more_info: >
       <p>Doctor Andrés Alberto Ramírez-Duque</p>
       <p>Postdoctoral Research Staff</p>
+  - align: right
+    image: team/stephenH.jpg
+    content: team/about_stephenH.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Mr Stephen Henley</p>
+      <p>PhD Student</p>
 ---

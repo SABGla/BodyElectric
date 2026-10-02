@@ -56,6 +56,6 @@ profiles:
     content: team/about_stephenH.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Mr Stephen Henley</p>
+      <p>Mister Stephen Henley</p>
       <p>PhD Student</p>
 ---

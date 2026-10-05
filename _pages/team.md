@@ -31,7 +31,7 @@ profiles:
       <p>Professor Nikolaj Gadegaard</p>
       <p>Co-Investigator</p>
   - align: right
-    image: team/frank.jpg
+    image: team/frank.png
     content: team/about_frank.md
     image_circular: true # crops the image to make it circular
     more_info: >
